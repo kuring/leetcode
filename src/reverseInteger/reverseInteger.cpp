@@ -1,6 +1,8 @@
 // Source : https://oj.leetcode.com/problems/reverse-integer/
 // Author : Hao Chen
 // Date   : 2014-06-18
+// Update : kuring
+// Reason : 解决了程序中对于负数的处理，程序对于整形溢出的问题没有处理
 
 /********************************************************************************** 
 * 
@@ -31,7 +33,7 @@
 int reverse(int x) {
     int y=0;
     int n;
-    while( x>0 ){
+    while( x != 0 ){
         n = x%10;
         y = y*10 + n;
         x /= 10;
