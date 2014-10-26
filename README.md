@@ -146,8 +146,8 @@ LeetCode C++ Solutions
 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|2012/1/18|Medium|
 |[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./src/3Sum/3Sum.cpp)|2012/1/17|Medium|
 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./src/longestCommonPrefix/longestCommonPrefix.cpp)|2012/1/17|Easy|
-|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./src/romanToInteger/romanToInteger.cpp)|2012/1/15|Easy|
-|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|2012/1/15|Medium|
+|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./src/romanToInteger/romanToInteger.cpp)|2012/1/15|Easy|not do|
+|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|2012/1/15|Medium|not do|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./src/containerWithMostWater/containerWithMostWater.cpp)|2012/1/8|Medium|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./src/regularExpressionMatching/regularExpressionMatching.cpp)|2012/1/8|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./src/palindromeNumber/palindromeNumber.cpp)|2012/1/4|Easy|yes|
