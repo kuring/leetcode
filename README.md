@@ -1,10 +1,10 @@
-LeetCode
+LeetCode:
 ========
 
 LeetCode C++ Solutions
 
-| Title | Solution | Add Date | Difficulty |
-| ----- | -------- | -------- | ---------- |
+| Title | Solution | Add Date | Difficulty | Finish |
+| ----- | -------- | -------- | ---------- | ------ |
 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|2014/10/20|Hard|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|2014/10/15|Medium|
 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./src/maximumProductSubarray/maximumProductSubarray.cpp)|2014/9/23|Medium|
@@ -139,7 +139,7 @@ LeetCode C++ Solutions
 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./src/swapNodesInPairs/swapNodesInPairs.cpp)|2012/2/14|Medium|
 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./src/mergeKSortedLists/mergeKSortedLists.cpp)|2012/2/13|Hard|
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./src/generateParentheses/generateParentheses.cpp)|2012/2/12|Medium|
-|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./src/validParentheses/validParentheses.cpp)|2012/1/30|Easy|
+|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./src/validParentheses/validParentheses.cpp)|2012/1/30|Easy|yes|
 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|2012/1/27|Easy|
 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|2012/1/26|Medium|
 |[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./src/4Sum/4Sum.cpp)|2012/1/26|Medium|
@@ -150,10 +150,10 @@ LeetCode C++ Solutions
 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|2012/1/15|Medium|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./src/containerWithMostWater/containerWithMostWater.cpp)|2012/1/8|Medium|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./src/regularExpressionMatching/regularExpressionMatching.cpp)|2012/1/8|Hard|
-|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./src/palindromeNumber/palindromeNumber.cpp)|2012/1/4|Easy|
-|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./src/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|2011/12/26|Easy|
-|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./src/reverseInteger/reverseInteger.cpp)|2011/12/25|Easy|
-|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./src/zigZagConversion/zigZagConversion.cpp)|2011/12/5|Easy|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./src/palindromeNumber/palindromeNumber.cpp)|2012/1/4|Easy|yes|
+|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./src/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|2011/12/26|Easy|yes|
+|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./src/reverseInteger/reverseInteger.cpp)|2011/12/25|Easy|yes|
+|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./src/zigZagConversion/zigZagConversion.cpp)|2011/12/5|Easy|yes|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./src/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|2011/11/11|Medium|
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./src/addTwoNumbers/addTwoNumbers.cpp)|2011/11/1|Medium|
 |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|2011/5/15|Medium|
