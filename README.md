@@ -140,7 +140,7 @@ LeetCode C++ Solutions
 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./src/mergeKSortedLists/mergeKSortedLists.cpp)|2012/2/13|Hard|
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./src/generateParentheses/generateParentheses.cpp)|2012/2/12|Medium|
 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./src/validParentheses/validParentheses.cpp)|2012/1/30|Easy|yes|
-|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|2012/1/27|Easy|
+|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|2012/1/27|Easy|yes|
 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|2012/1/26|Medium|
 |[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./src/4Sum/4Sum.cpp)|2012/1/26|Medium|
 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|2012/1/18|Medium|
