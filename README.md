@@ -124,7 +124,7 @@ LeetCode C++ Solutions
 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./src/combinationSum/combinationSum.cpp)|2012/3/6|Medium|
 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|2012/3/5|Easy|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|2012/3/4|Hard|
-|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|2012/3/3|Easy|
+|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|2012/3/3|Easy|not do|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|2012/3/3|Medium|
 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./src/searchForRange/searchForRange.cpp)|2012/3/2|Medium|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|2012/3/2|Hard|
@@ -133,7 +133,7 @@ LeetCode C++ Solutions
 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|2012/2/23|Hard|
 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [C++](./src/divideTwoInt/divideTwoInt.cpp)|2012/2/18|Medium|
 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./src/strStr/strStr.cpp)|2012/2/18|Easy|
-|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./src/removeElement/removeElement.cpp)|2012/2/16|Easy|
+|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./src/removeElement/removeElement.cpp)|2012/2/16|Easy|yes|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|2012/2/16|Easy|
 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./src/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|2012/2/15|Hard|
 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./src/swapNodesInPairs/swapNodesInPairs.cpp)|2012/2/14|Medium|
