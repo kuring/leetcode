@@ -134,7 +134,7 @@ LeetCode C++ Solutions
 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [C++](./src/divideTwoInt/divideTwoInt.cpp)|2012/2/18|Medium|
 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./src/strStr/strStr.cpp)|2012/2/18|Easy|
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./src/removeElement/removeElement.cpp)|2012/2/16|Easy|yes|
-|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|2012/2/16|Easy|
+|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|2012/2/16|Easy|yes|
 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./src/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|2012/2/15|Hard|
 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./src/swapNodesInPairs/swapNodesInPairs.cpp)|2012/2/14|Medium|
 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./src/mergeKSortedLists/mergeKSortedLists.cpp)|2012/2/13|Hard|
