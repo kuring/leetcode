@@ -102,7 +102,7 @@ LeetCode C++ Solutions
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|2012/3/27|Medium|
 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|2012/3/27|Medium|
 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|2012/3/27|Medium|
-|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./src/lengthOfLastWord/lengthOfLastWord.cpp)|2012/3/27|Easy|
+|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./src/lengthOfLastWord/lengthOfLastWord.cpp)|2012/3/27|Easy|yes|
 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [C++](./src/insertInterval/insertInterval.cpp)|2012/3/27|Hard|
 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [C++](./src/mergeIntervals/mergeIntervals.cpp)|2012/3/26|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [C++](./src/jumpGame/jumpGame.cpp)|2012/3/24|Medium|
@@ -122,7 +122,7 @@ LeetCode C++ Solutions
 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [C++](./src/firstMissingPositive/firstMissingPositive.cpp)|2012/3/8|Hard|
 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./src/combinationSum/combinationSum.II.cpp)|2012/3/6|Medium|
 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./src/combinationSum/combinationSum.cpp)|2012/3/6|Medium|
-|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|2012/3/5|Easy|
+|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|2012/3/5|Easy|not do|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|2012/3/4|Hard|
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|2012/3/3|Easy|not do|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|2012/3/3|Medium|
