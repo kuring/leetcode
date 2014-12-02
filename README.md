@@ -15,7 +15,7 @@ LeetCode C++ Solutions
 |[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./src/insertionSortList/insertionSortList.cpp)|2013/11/12|Medium|
 |[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|2013/11/9|Hard|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|2013/11/7|Hard|
-|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|2013/11/5|Medium|
+|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|2013/11/5|Medium|yes|
 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [C++](./src/reorderList/reorderList.cpp)|2013/11/2|Medium|
 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| [C++](./src/linkedListCycle/linkedListCycle.II.cpp)|2013/10/30|Medium|
 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [C++](./src/linkedListCycle/linkedListCycle.cpp)|2013/10/28|Medium|
@@ -46,9 +46,9 @@ LeetCode C++ Solutions
 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./src/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.cpp)|2012/10/28|Medium|
 |[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)| [C++](./src/distinctSubsequences/distinctSubsequences.cpp)|2012/10/18|Hard|
 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./src/flattenBinaryTreeToLinkedList/flattenBinaryTreeToLinkedList.cpp)|2012/10/14|Medium|
-|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [C++](./src/pathSum/pathSum.II.cpp)|2012/10/14|Medium|
-|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [C++](./src/pathSum/pathSum.cpp)|2012/10/13|Easy|
-|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./src/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|2012/10/9|Easy|
+|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [C++](./src/pathSum/pathSum.II.cpp)|2012/10/14|Medium|yes|
+|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [C++](./src/pathSum/pathSum.cpp)|2012/10/13|Easy|yes|
+|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./src/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|2012/10/9|Easy|yes|
 |[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [C++](./src/balancedBinaryTree/balancedBinaryTree.cpp)|2012/10/8|Easy|
 |[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [C++](./src/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp)|2012/10/2|Medium|
 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./src/convertSortedArrayToBinarySearchTree/convertSortedArrayToBinarySearchTree.cpp)|2012/10/2|Medium|
@@ -65,7 +65,7 @@ LeetCode C++ Solutions
 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [C++](./src/interleavingString/interleavingString.cpp)|2012/8/30|Hard|
 |[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|2012/8/27|Medium|
 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|2012/8/27|Medium|
-|[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./src/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|2012/8/27|Medium|
+|[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./src/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|2012/8/27|Medium|yes|
 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [C++](./src/restoreIPAddresses/restoreIPAddresses.cpp)|2012/8/7|Medium|
 |[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [C++](./src/reverseLinkedList/reverseLinkedList.II.cpp)|2012/6/27|Medium|
 |[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [C++](./src/subsets/subsets.II.cpp)|2012/6/25|Medium|
@@ -77,7 +77,7 @@ LeetCode C++ Solutions
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [C++](./src/maximalRectangle/maximalRectangle.cpp)|2012/4/23|Hard|
 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| [C++](./src/largestRectangleInHistogram/largestRectangleInHistogram.cpp)|2012/4/22|Hard|
 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|2012/4/22|Medium|
-|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|2012/4/22|Easy|
+|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|2012/4/22|Easy|yes|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|2012/4/19|Medium|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|2012/4/19|Medium|
 |[Word Search](https://oj.leetcode.com/problems/word-search/)| [C++](./src/wordSearch/wordSearch.cpp)|2012/4/18|Medium|
@@ -132,7 +132,7 @@ LeetCode C++ Solutions
 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [C++](./src/nextPermutation/nextPermutation.cpp)|2012/2/25|Medium|
 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|2012/2/23|Hard|
 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [C++](./src/divideTwoInt/divideTwoInt.cpp)|2012/2/18|Medium|
-|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./src/strStr/strStr.cpp)|2012/2/18|Easy|
+|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./src/strStr/strStr.cpp)|2012/2/18|Easy|use normal,not use KMP..|
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./src/removeElement/removeElement.cpp)|2012/2/16|Easy|yes|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|2012/2/16|Easy|yes|
 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./src/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|2012/2/15|Hard|
