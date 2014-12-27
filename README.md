@@ -5,6 +5,21 @@ LeetCode C++ Solutions
 
 | Title | Solution | Add Date | Difficulty | Finish |
 | ----- | -------- | -------- | ---------- | ------ |
+[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [C++](./src/majorityElement/majorityElement.cpp)|Easy|
+[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./src/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|
+[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [C++](./src/twoSum/twoSum.II.cpp)|Medium|
+[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./src/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
+[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./src/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
+[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./src/maximumGap/maximumGap.cpp)|Hard|
+[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [C++](./src/missingRanges/missingRanges.cpp)|Medium|
+[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./src/findPeakElement/findPeakElement.cpp)|Medium|
+[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [C++](./src/oneEditDistance/oneEditDistance.cpp)|Medium|
+[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./src/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|
+[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | [C++](./src/longestSubstringWithAtMostTwoDistinctCharacters/longestSubstringWithAtMostTwoDistinctCharacters.cpp)|Hard|
+[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | [C++](./src/readNCharactersGivenRead4/readNCharactersGivenRead4.II.cpp)|Hard|
+[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | [C++](./src/readNCharactersGivenRead4/readNCharactersGivenRead4.cpp)|Easy|
+[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/) &hearts; | [C++](./src/binaryTreeUpsideDown/binaryTreeUpsideDown.cpp)|Medium|
+[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./src/minStack/minStack.cpp)|Easy|yes|
 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|2014/10/20|Hard|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|2014/10/15|Medium|
 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./src/maximumProductSubarray/maximumProductSubarray.cpp)|2014/9/23|Medium|
@@ -55,7 +70,7 @@ LeetCode C++ Solutions
 |[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.II.cpp)|2012/10/1|Easy|
 |[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [C++](./src/constructBinaryTreeFromInorderAndPostorderTraversal/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|2012/9/30|Medium|
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [C++](./src/constructBinaryTreeFromPreorderAndInorderTraversal/constructBinaryTreeFromPreorderAndInorderTraversal.cpp)|2012/9/30|Medium|
-|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./src/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|2012/9/29|Easy|
+|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./src/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|2012/9/29|Easy|yes|
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [C++](./src/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp)|2012/9/28|Medium|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)|2012/9/28|Easy|
 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./src/symmetricTree/symmetricTree.cpp)|2012/9/23|Easy|
@@ -64,7 +79,7 @@ LeetCode C++ Solutions
 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [C++](./src/validateBinarySearchTree/validateBinarySearchTree.cpp)|2012/8/31|Medium|
 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [C++](./src/interleavingString/interleavingString.cpp)|2012/8/30|Hard|
 |[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|2012/8/27|Medium|
-|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|2012/8/27|Medium|
+|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|2012/8/27|Medium|yes|
 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./src/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|2012/8/27|Medium|yes|
 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [C++](./src/restoreIPAddresses/restoreIPAddresses.cpp)|2012/8/7|Medium|
 |[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [C++](./src/reverseLinkedList/reverseLinkedList.II.cpp)|2012/6/27|Medium|
@@ -107,7 +122,7 @@ LeetCode C++ Solutions
 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [C++](./src/mergeIntervals/mergeIntervals.cpp)|2012/3/26|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [C++](./src/jumpGame/jumpGame.cpp)|2012/3/24|Medium|
 |[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [C++](./src/spiralMatrix/spiralMatrix.cpp)|2012/3/24|Medium|
-|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./src/maximumSubArray/maximumSubArray.cpp)|2012/3/21|Medium|
+|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./src/maximumSubArray/maximumSubArray.cpp)|2012/3/21|Medium|yes|
 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./src/nQueens/nQueuens.II.cpp)|2012/3/20|Hard|
 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./src/nQueens/nQueuens.cpp)|2012/3/19|Hard|
 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [C++](./src/pow/pow.cpp)|2012/3/19|Medium|
@@ -126,7 +141,7 @@ LeetCode C++ Solutions
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|2012/3/4|Hard|
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|2012/3/3|Easy|not do|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|2012/3/3|Medium|
-|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./src/searchForRange/searchForRange.cpp)|2012/3/2|Medium|
+|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./src/searchForRange/searchForRange.cpp)|2012/3/2|Medium|local right,test error|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|2012/3/2|Hard|
 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [C++](./src/longestValidParentheses/longestValidParentheses.cpp)|2012/2/29|Hard|
 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [C++](./src/nextPermutation/nextPermutation.cpp)|2012/2/25|Medium|
