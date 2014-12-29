@@ -28,7 +28,7 @@ LeetCode C++ Solutions
 |[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./src/maxPointsOnALine/maxPointsOnALine.cpp)|2013/11/22|Hard|
 |[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/sortList/sortList.cpp)|2013/11/16|Medium|
 |[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./src/insertionSortList/insertionSortList.cpp)|2013/11/12|Medium|
-|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|2013/11/9|Hard|
+|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|2013/11/9|Hard|yes|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|2013/11/7|Hard|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|2013/11/5|Medium|yes|
 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [C++](./src/reorderList/reorderList.cpp)|2013/11/2|Medium|
@@ -78,7 +78,7 @@ LeetCode C++ Solutions
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [C++](./src/recoverBinarySearchTree/recoverBinarySearchTree.cpp)|2012/9/1|Hard|
 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [C++](./src/validateBinarySearchTree/validateBinarySearchTree.cpp)|2012/8/31|Medium|
 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [C++](./src/interleavingString/interleavingString.cpp)|2012/8/30|Hard|
-|[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|2012/8/27|Medium|
+|[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|2012/8/27|Medium|yes|
 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [C++](./src/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|2012/8/27|Medium|yes|
 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./src/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|2012/8/27|Medium|yes|
 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [C++](./src/restoreIPAddresses/restoreIPAddresses.cpp)|2012/8/7|Medium|
