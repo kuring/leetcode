@@ -20,8 +20,8 @@ LeetCode C++ Solutions
 [Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | [C++](./src/readNCharactersGivenRead4/readNCharactersGivenRead4.cpp)|Easy|
 [Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/) &hearts; | [C++](./src/binaryTreeUpsideDown/binaryTreeUpsideDown.cpp)|Medium|
 [Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./src/minStack/minStack.cpp)|Easy|yes|
-|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|2014/10/20|Hard|
-|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|2014/10/15|Medium|
+|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|2014/10/20|Hard|yes|
+|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|2014/10/15|Medium|yes|
 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./src/maximumProductSubarray/maximumProductSubarray.cpp)|2014/9/23|Medium|
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./src/reverseWordsInAString/reverseWordsInAString.cpp)|2014/3/5|Medium|
 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./src/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|2013/11/27|Medium|
@@ -69,7 +69,7 @@ LeetCode C++ Solutions
 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./src/convertSortedArrayToBinarySearchTree/convertSortedArrayToBinarySearchTree.cpp)|2012/10/2|Medium|
 |[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.II.cpp)|2012/10/1|Easy|
 |[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [C++](./src/constructBinaryTreeFromInorderAndPostorderTraversal/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|2012/9/30|Medium|
-|[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [C++](./src/constructBinaryTreeFromPreorderAndInorderTraversal/constructBinaryTreeFromPreorderAndInorderTraversal.cpp)|2012/9/30|Medium|
+|[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [C++](./src/constructBinaryTreeFromPreorderAndInorderTraversal/constructBinaryTreeFromPreorderAndInorderTraversal.cpp)|2012/9/30|Medium|yes|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./src/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|2012/9/29|Easy|yes|
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [C++](./src/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp)|2012/9/28|Medium|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)|2012/9/28|Easy|
