@@ -114,7 +114,7 @@ LeetCode C++ Solutions
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./src/minimumPathSum/minimumPathSum.cpp)|2012/3/28|Medium|
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|2012/3/28|Medium|
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|2012/3/28|Medium|
-|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|2012/3/27|Medium|
+|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|2012/3/27|Medium|yes|
 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|2012/3/27|Medium|
 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|2012/3/27|Medium|
 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./src/lengthOfLastWord/lengthOfLastWord.cpp)|2012/3/27|Easy|yes|
@@ -125,7 +125,7 @@ LeetCode C++ Solutions
 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./src/maximumSubArray/maximumSubArray.cpp)|2012/3/21|Medium|yes|
 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./src/nQueens/nQueuens.II.cpp)|2012/3/20|Hard|
 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./src/nQueens/nQueuens.cpp)|2012/3/19|Hard|
-|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [C++](./src/pow/pow.cpp)|2012/3/19|Medium|
+|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [C++](./src/pow/pow.cpp)|2012/3/19|Medium|yes|
 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)| [C++](./src/anagrams/anagrams.cpp)|2012/3/19|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [C++](./src/rotateImage/rotateImage.cpp)|2012/3/17|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [C++](./src/permutations/permutations.II.cpp)|2012/3/16|Hard|
