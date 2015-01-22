@@ -123,8 +123,8 @@ LeetCode C++ Solutions
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [C++](./src/jumpGame/jumpGame.cpp)|2012/3/24|Medium|
 |[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [C++](./src/spiralMatrix/spiralMatrix.cpp)|2012/3/24|Medium|
 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./src/maximumSubArray/maximumSubArray.cpp)|2012/3/21|Medium|yes|
-|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./src/nQueens/nQueuens.II.cpp)|2012/3/20|Hard|
-|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./src/nQueens/nQueuens.cpp)|2012/3/19|Hard|
+|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./src/nQueens/nQueuens.II.cpp)|2012/3/20|Hard|yes|
+|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./src/nQueens/nQueuens.cpp)|2012/3/19|Hard|yes|
 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [C++](./src/pow/pow.cpp)|2012/3/19|Medium|yes|
 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)| [C++](./src/anagrams/anagrams.cpp)|2012/3/19|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [C++](./src/rotateImage/rotateImage.cpp)|2012/3/17|Medium|
