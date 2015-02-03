@@ -1,3 +1,5 @@
+本项目fork自[haoel/leetcode](https://github.com/haoel/leetcode)，其中src目录中的小写字母+下划线命名风格的文件为我的源码。
+
 LeetCode:
 ========
 
@@ -32,8 +34,8 @@ LeetCode C++ Solutions
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|2013/11/7|Hard|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|2013/11/5|Medium|yes|
 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [C++](./src/reorderList/reorderList.cpp)|2013/11/2|Medium|
-|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| [C++](./src/linkedListCycle/linkedListCycle.II.cpp)|2013/10/30|Medium|
-|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [C++](./src/linkedListCycle/linkedListCycle.cpp)|2013/10/28|Medium|
+|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| [C++](./src/linkedListCycle/linkedListCycle.II.cpp)|2013/10/30|Medium|yes|
+|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [C++](./src/linkedListCycle/linkedListCycle.cpp)|2013/10/28|Medium|yes|
 |[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [C++](./src/wordBreak/wordBreak.II.cpp)|2013/10/5|Hard|
 |[Word Break](https://oj.leetcode.com/problems/word-break/)| [C++](./src/wordBreak/wordBreak.cpp)|2013/10/4|Medium|
 |[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| [C++](./src/copyListWithRandomPointer/copyListWithRandomPointer.cpp)|2013/10/3|Hard|
