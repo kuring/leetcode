@@ -51,7 +51,7 @@ LeetCode C++ Solutions
 |[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| [C++](./src/longestConsecutiveSequence/longestConsecutiveSequence.cpp)|2013/2/13|Hard|
 |[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)| [C++](./src/wordLadder/wordLadder.II.cpp)|2013/2/10|Hard|
 |[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)| [C++](./src/wordLadder/wordLadder.cpp)|2013/2/10|Medium|
-|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [C++](./src/validPalindrome/validPalindrome.cpp)|2013/1/12|Easy|
+|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [C++](./src/validPalindrome/validPalindrome.cpp)|2013/1/12|Easy|yes|
 |[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| [C++](./src/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.cpp)|2012/11/7|Hard|
 |[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [C++](./src/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.III.cpp)|2012/11/6|Hard|
 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./src/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.II.cpp)|2012/10/30|Medium|
