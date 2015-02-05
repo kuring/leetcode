@@ -88,7 +88,7 @@ LeetCode C++ Solutions
 |[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [C++](./src/subsets/subsets.II.cpp)|2012/6/25|Medium|
 |[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| [C++](./src/decodeWays/decodeWays.cpp)|2012/6/25|Medium|
 |[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [C++](./src/grayCode/grayCode.cpp)|2012/5/20|Medium|
-|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [C++](./src/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|2012/5/20|Easy|
+|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [C++](./src/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|2012/5/20|Easy|yes|
 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [C++](./src/scrambleString/scrambleString.cpp)|2012/4/30|Hard|
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| [C++](./src/partitionList/partitionList.cpp)|2012/4/30|Medium|
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [C++](./src/maximalRectangle/maximalRectangle.cpp)|2012/4/23|Hard|
