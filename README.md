@@ -75,7 +75,7 @@ LeetCode C++ Solutions
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./src/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|2012/9/29|Easy|yes|
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [C++](./src/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp)|2012/9/28|Medium|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)|2012/9/28|Easy|
-|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./src/symmetricTree/symmetricTree.cpp)|2012/9/23|Easy|
+|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./src/symmetricTree/symmetricTree.cpp)|2012/9/23|Easy|yes|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./src/sameTree/sameTree.cpp)|2012/9/3|Easy|yes|
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [C++](./src/recoverBinarySearchTree/recoverBinarySearchTree.cpp)|2012/9/1|Hard|
 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [C++](./src/validateBinarySearchTree/validateBinarySearchTree.cpp)|2012/8/31|Medium|
