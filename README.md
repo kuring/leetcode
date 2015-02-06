@@ -8,7 +8,7 @@ LeetCode C++ Solutions
 | Title | Solution | Add Date | Difficulty | Finish |
 | ----- | -------- | -------- | ---------- | ------ |
 [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [C++](./src/majorityElement/majorityElement.cpp)|Easy|
-[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./src/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|
+[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./src/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|yes|
 [Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [C++](./src/twoSum/twoSum.II.cpp)|Medium|
 [Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./src/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
 [Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./src/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
@@ -76,7 +76,7 @@ LeetCode C++ Solutions
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [C++](./src/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp)|2012/9/28|Medium|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)|2012/9/28|Easy|
 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./src/symmetricTree/symmetricTree.cpp)|2012/9/23|Easy|
-|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./src/sameTree/sameTree.cpp)|2012/9/3|Easy|
+|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./src/sameTree/sameTree.cpp)|2012/9/3|Easy|yes|
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [C++](./src/recoverBinarySearchTree/recoverBinarySearchTree.cpp)|2012/9/1|Hard|
 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [C++](./src/validateBinarySearchTree/validateBinarySearchTree.cpp)|2012/8/31|Medium|
 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [C++](./src/interleavingString/interleavingString.cpp)|2012/8/30|Hard|
