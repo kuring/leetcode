@@ -6,6 +6,7 @@ class Solution {
 public:
 	/**
 	 * 逻辑分析法，通过找规律来解决问题，时间复杂度为O(n)
+     * 编程珠玑的第8章中称为扫描算法，不可能存在比该算法更快的算法了
 	 */
 	int maxSubArray(int A[], int n) {
 		if (n == 0)
