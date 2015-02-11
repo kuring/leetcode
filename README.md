@@ -114,8 +114,8 @@ LeetCode C++ Solutions
 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./src/addBinary/addBinary.cpp)|2012/4/2|Easy|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./src/mergeTwoSortedList/mergeTwoSortedList.cpp)|2012/3/30|Easy|
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./src/minimumPathSum/minimumPathSum.cpp)|2012/3/28|Medium|
-|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|2012/3/28|Medium|
-|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|2012/3/28|Medium|
+|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|2012/3/28|Medium|yes|
+|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|2012/3/28|Medium|yes|
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|2012/3/27|Medium|yes|
 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|2012/3/27|Medium|
 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|2012/3/27|Medium|
