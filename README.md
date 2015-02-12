@@ -97,7 +97,7 @@ LeetCode C++ Solutions
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|2012/4/22|Easy|yes|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|2012/4/19|Medium|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|2012/4/19|Medium|
-|[Word Search](https://oj.leetcode.com/problems/word-search/)| [C++](./src/wordSearch/wordSearch.cpp)|2012/4/18|Medium|
+|[Word Search](https://oj.leetcode.com/problems/word-search/)| [C++](./src/wordSearch/wordSearch.cpp)|2012/4/18|Medium|yes|
 |[Subsets](https://oj.leetcode.com/problems/subsets/)| [C++](./src/subsets/subsets.cpp)|2012/4/18|Medium|
 |[Combinations](https://oj.leetcode.com/problems/combinations/)| [C++](./src/combinations/combinations.cpp)|2012/4/18|Medium|
 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| [C++](./src/minimumWindowSubstring/minimumWindowSubstring.cpp)|2012/4/15|Hard|
@@ -175,4 +175,4 @@ LeetCode C++ Solutions
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./src/addTwoNumbers/addTwoNumbers.cpp)|2011/11/1|Medium|
 |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|2011/5/15|Medium|
 |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./src/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|2011/3/27|Hard|
-|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./src/twoSum/twoSum.cpp)|2011/3/13|Medium|
+|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./src/twoSum/twoSum.cpp)|2011/3/13|Medium|yes|
