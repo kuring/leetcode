@@ -172,7 +172,7 @@ LeetCode C++ Solutions
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./src/reverseInteger/reverseInteger.cpp)|2011/12/25|Easy|yes|
 |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./src/zigZagConversion/zigZagConversion.cpp)|2011/12/5|Easy|yes|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./src/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|2011/11/11|Medium|
-|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./src/addTwoNumbers/addTwoNumbers.cpp)|2011/11/1|Medium|
-|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|2011/5/15|Medium|
+|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./src/addTwoNumbers/addTwoNumbers.cpp)|2011/11/1|Medium|yes|
+|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|2011/5/15|Medium|yes|
 |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./src/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|2011/3/27|Hard|
 |[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./src/twoSum/twoSum.cpp)|2011/3/13|Medium|yes|
