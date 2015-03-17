@@ -11,7 +11,7 @@ LeetCode C++ Solutions
 [Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./src/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|yes|
 [Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [C++](./src/twoSum/twoSum.II.cpp)|Medium|
 [Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./src/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
-[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./src/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
+[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./src/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|yes|
 [Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./src/maximumGap/maximumGap.cpp)|Hard|
 [Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [C++](./src/missingRanges/missingRanges.cpp)|Medium|
 [Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./src/findPeakElement/findPeakElement.cpp)|Medium|
