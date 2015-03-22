@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <queue>
+#include <vector>
 
 struct TreeNode {
     int val;
@@ -108,11 +109,16 @@ void print_list(ListNode *head)
 
 int main()
 {
+    // init tree
     int arr[] = {1, 2, 3, 4, 5, 6};
     TreeNode *root = create_binary_tree(arr, 6);
     print_binary_tree(root);
 
+    // init list
     ListNode *head = create_list(arr, 6);
     print_list(head);
+
+    // init vector
+    std::vector<int> vec(arr, arr + sizeof(arr) / sizeof(int));
     return 1;
 }
