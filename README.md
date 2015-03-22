@@ -66,7 +66,7 @@ LeetCode C++ Solutions
 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [C++](./src/pathSum/pathSum.II.cpp)|Medium|yes|
 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [C++](./src/pathSum/pathSum.cpp)|Easy|yes|
 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./src/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.cpp)|Easy|yes|
-|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [C++](./src/balancedBinaryTree/balancedBinaryTree.cpp)|Easy|
+|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [C++](./src/balancedBinaryTree/balancedBinaryTree.cpp)|Easy|finished,but not accepted,I don't know why
 |[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [C++](./src/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp)|Medium|
 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./src/convertSortedArrayToBinarySearchTree/convertSortedArrayToBinarySearchTree.cpp)|Medium|
 |[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.II.cpp)|Easy|

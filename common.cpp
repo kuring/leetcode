@@ -20,7 +20,7 @@ TreeNode *create_binary_tree(int arr[], int size)
     TreeNode **node = new TreeNode*[size];
     for (int i=0; i<size; i++)
     {
-        if (arr[i] == 0)
+        if (arr[i] == '#')
         {
             node[i] = NULL;
         }
