@@ -139,7 +139,7 @@ LeetCode C++ Solutions
 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [C++](./src/firstMissingPositive/firstMissingPositive.cpp)|Hard|
 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./src/combinationSum/combinationSum.II.cpp)|Medium|
 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./src/combinationSum/combinationSum.cpp)|Medium|
-|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|Easy|not do|
+|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|Easy|yes|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|Hard|
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|Easy|not do|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|Medium|
