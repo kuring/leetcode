@@ -101,7 +101,7 @@ LeetCode C++ Solutions
 |[Subsets](https://oj.leetcode.com/problems/subsets/)| [C++](./src/subsets/subsets.cpp)|Medium|
 |[Combinations](https://oj.leetcode.com/problems/combinations/)| [C++](./src/combinations/combinations.cpp)|Medium|
 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| [C++](./src/minimumWindowSubstring/minimumWindowSubstring.cpp)|Hard|
-|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [C++](./src/sortColors/sortColors.cpp)|Medium|
+|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [C++](./src/sortColors/sortColors.cpp)|Medium|yes|
 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [C++](./src/search2DMatrix/search2DMatrix.cpp)|Medium|
 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [C++](./src/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [C++](./src/editDistance/editDistance.cpp)|Hard|
