@@ -33,7 +33,7 @@ LeetCode C++ Solutions
 |[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|Hard|yes|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|Hard|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|Medium|yes|
-|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [C++](./src/reorderList/reorderList.cpp)|Medium|
+|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [C++](./src/reorderList/reorderList.cpp)|Medium|yes|
 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| [C++](./src/linkedListCycle/linkedListCycle.II.cpp)|Medium|yes|
 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [C++](./src/linkedListCycle/linkedListCycle.cpp)|Medium|yes|
 |[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [C++](./src/wordBreak/wordBreak.II.cpp)|Hard|

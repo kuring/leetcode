@@ -105,17 +105,18 @@ void print_list(ListNode *head)
         std::cout << head->val << " ";
         head = head->next;
     }
+    std::cout << endl;
 }
 
 int main()
 {
     // init tree
     int arr[] = {1, 2, 3, 4, 5, 6};
-    TreeNode *root = create_binary_tree(arr, 6);
+    TreeNode *root = create_binary_tree(arr, sizeof(arr) / sizeof(int));
     print_binary_tree(root);
 
     // init list
-    ListNode *head = create_list(arr, 6);
+    ListNode *head = create_list(arr, sizeof(arr) / sizeof(int));
     print_list(head);
 
     // init vector
