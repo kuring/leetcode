@@ -25,7 +25,7 @@ LeetCode C++ Solutions
 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|Hard|yes|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|yes|
 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./src/maximumProductSubarray/maximumProductSubarray.cpp)|Medium|yes|
-|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./src/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|
+|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./src/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|yes|
 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./src/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
 |[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./src/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
 |[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/sortList/sortList.cpp)|Medium|
