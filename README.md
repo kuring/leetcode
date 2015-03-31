@@ -39,8 +39,8 @@ LeetCode C++ Solutions
 |[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [C++](./src/wordBreak/wordBreak.II.cpp)|Hard|
 |[Word Break](https://oj.leetcode.com/problems/word-break/)| [C++](./src/wordBreak/wordBreak.cpp)|Medium|
 |[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| [C++](./src/copyListWithRandomPointer/copyListWithRandomPointer.cpp)|Hard|
-|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [C++](./src/singleNumber/singleNumber.II.cpp)|Medium|
-|[Single Number](https://oj.leetcode.com/problems/single-number/)| [C++](./src/singleNumber/singleNumber.cpp)|Medium|
+|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [C++](./src/singleNumber/singleNumber.II.cpp)|Medium|From Internet|
+|[Single Number](https://oj.leetcode.com/problems/single-number/)| [C++](./src/singleNumber/singleNumber.cpp)|Medium|yes|
 |[Candy](https://oj.leetcode.com/problems/candy/)| [C++](./src/candy/candy.cpp)|Hard|
 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)| [C++](./src/gasStation/gasStation.cpp)|Medium|
 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)| [C++](./src/cloneGraph/cloneGraph.cpp)|Medium|
