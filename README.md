@@ -109,7 +109,7 @@ LeetCode C++ Solutions
 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [C++](./src/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [C++](./src/editDistance/editDistance.cpp)|Hard|
 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [C++](./src/simplifyPath/simplifyPath.cpp)|Medium|
-|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [C++](./src/climbStairs/climbStairs.cpp)|Easy|
+|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [C++](./src/climbStairs/climbStairs.cpp)|Easy|yes|
 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./src/sqrt/sqrt.cpp)|Medium|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [C++](./src/textJustification/textJustification.cpp)|Hard|
 |[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./src/plusOne/plusOne.cpp)|Easy|
