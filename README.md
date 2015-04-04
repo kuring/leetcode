@@ -7,6 +7,8 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./src/ExcelSheetColumnNumber/excel_sheet_column_number.cpp) | Easy | yes|
+[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&hearts; | c++ | Easy | |
 [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [C++](./src/majorityElement/majorityElement.cpp)|Easy|yes|
 [Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./src/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|yes|
 [Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [C++](./src/twoSum/twoSum.II.cpp)|Medium|
@@ -142,7 +144,7 @@ LeetCode C++ Solutions
 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|Easy|yes|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|Hard|
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|Easy|not do|
-|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|Medium|
+|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./src/searchInsertPosition/searchInsertPosition.cpp)|Medium|yes|
 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./src/searchForRange/searchForRange.cpp)|Medium|local right,test error|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|Hard|
 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [C++](./src/longestValidParentheses/longestValidParentheses.cpp)|Hard|
@@ -160,8 +162,8 @@ LeetCode C++ Solutions
 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Easy|yes|
 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
 |[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./src/4Sum/4Sum.cpp)|Medium|
-|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|Medium|
-|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./src/3Sum/3Sum.cpp)|Medium|
+|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|Medium|yes|
+|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./src/3Sum/3Sum.cpp)|Medium|yes|
 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./src/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
 |[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./src/romanToInteger/romanToInteger.cpp)|Easy|not do|
 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|Medium|not do|
