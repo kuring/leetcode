@@ -114,7 +114,7 @@ LeetCode C++ Solutions
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [C++](./src/textJustification/textJustification.cpp)|Hard|
 |[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./src/plusOne/plusOne.cpp)|Easy|yes|
 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)| [C++](./src/validNumber/validNumber.cpp)|Easy|
-|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./src/addBinary/addBinary.cpp)|Easy|
+|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./src/addBinary/addBinary.cpp)|Easy|yes|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./src/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./src/minimumPathSum/minimumPathSum.cpp)|Medium|
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|Medium|yes|
