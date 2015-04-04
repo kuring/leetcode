@@ -7,6 +7,7 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./src/FactorialTrailingZeroes/factorial_trailing_zeroes.cpp) | Easy | yes|
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./src/ExcelSheetColumnNumber/excel_sheet_column_number.cpp) | Easy | yes|
 [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&hearts; | c++ | Easy | |
 [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [C++](./src/majorityElement/majorityElement.cpp)|Easy|yes|
