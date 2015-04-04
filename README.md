@@ -112,7 +112,7 @@ LeetCode C++ Solutions
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [C++](./src/climbStairs/climbStairs.cpp)|Easy|yes|
 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./src/sqrt/sqrt.cpp)|Medium|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [C++](./src/textJustification/textJustification.cpp)|Hard|
-|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./src/plusOne/plusOne.cpp)|Easy|
+|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./src/plusOne/plusOne.cpp)|Easy|yes|
 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)| [C++](./src/validNumber/validNumber.cpp)|Easy|
 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./src/addBinary/addBinary.cpp)|Easy|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./src/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
