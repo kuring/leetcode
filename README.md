@@ -165,7 +165,7 @@ LeetCode C++ Solutions
 |[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./src/4Sum/4Sum.cpp)|Medium|
 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|Medium|yes|
 |[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./src/3Sum/3Sum.cpp)|Medium|yes|
-|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./src/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
+|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./src/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|yes|
 |[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./src/romanToInteger/romanToInteger.cpp)|Easy|not do|
 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|Medium|not do|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./src/containerWithMostWater/containerWithMostWater.cpp)|Medium|
@@ -174,7 +174,7 @@ LeetCode C++ Solutions
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./src/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Easy|yes|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./src/reverseInteger/reverseInteger.cpp)|Easy|yes|
 |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./src/zigZagConversion/zigZagConversion.cpp)|Easy|yes|
-|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./src/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
+|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./src/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|yes|
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./src/addTwoNumbers/addTwoNumbers.cpp)|Medium|yes|
 |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|yes|
 |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./src/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
