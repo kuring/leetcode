@@ -3,6 +3,9 @@
 
 using namespace std;
 
+/**
+ * 二分查找的变形
+ */
 class Solution {
 public:
 	vector<int> searchRange(int A[], int n, int target) {
@@ -20,11 +23,12 @@ public:
 			}
 			else
 			{
-				for (int i=0; A[middle]==A[middle-i]; i++)
+                // 找到目标，以目标为中心点向左和向右查找边界
+				for (int i=0; middle - i >= 0 && A[middle]==A[middle-i]; i++)
 				{
 					low = middle - i;
 				}
-				for (int i=0; A[middle]==A[middle+i]; i++)
+				for (int i=0; middle + i < n && A[middle]==A[middle+i]; i++)
 				{
 					high = middle + i;
 				}
@@ -67,9 +71,8 @@ public:
 
 int main()
 {
-	// 本地测试已经得到了正确结果，但是leecode网站测试错误
-	int A[8] = {0, 0, 2, 3, 4, 4, 4, 5};
+	int A[8] = {0, 0, 0, 1, 2, 3};
 	Solution solution;
-	vector<int> result = solution.searchRange(A, 8, 5);
+	vector<int> result = solution.searchRange(A, sizeof(A) / sizeof(int), 0);
 	printf("%d,%d\n", result[0], result[1]);
 }
