@@ -140,8 +140,8 @@ LeetCode C++ Solutions
 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [C++](./src/multiplyStrings/multiplyStrings.cpp)|Medium|
 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [C++](./src/trappingRainWater/trappingRainWater.cpp)|Hard|
 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [C++](./src/firstMissingPositive/firstMissingPositive.cpp)|Hard|
-|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./src/combinationSum/combinationSum.II.cpp)|Medium|
-|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./src/combinationSum/combinationSum.cpp)|Medium|
+|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./src/combinationSum/combinationSum.II.cpp)|Medium|yes|
+|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./src/combinationSum/combinationSum.cpp)|Medium|yes|
 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./src/countAndSay/countAndSay.cpp)|Easy|yes|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./src/sudokuSolver/sudokuSolver.cpp)|Hard|
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./src/validSudoku/validSudoku.cpp)|Easy|not do|
