@@ -108,7 +108,7 @@ LeetCode C++ Solutions
 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [C++](./src/search2DMatrix/search2DMatrix.cpp)|Medium|
 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [C++](./src/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [C++](./src/editDistance/editDistance.cpp)|Hard|
-|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [C++](./src/simplifyPath/simplifyPath.cpp)|Medium|
+|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [C++](./src/simplifyPath/simplifyPath.cpp)|Medium|yes|
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [C++](./src/climbStairs/climbStairs.cpp)|Easy|yes|
 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./src/sqrt/sqrt.cpp)|Medium|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [C++](./src/textJustification/textJustification.cpp)|Hard|
@@ -161,14 +161,14 @@ LeetCode C++ Solutions
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./src/generateParentheses/generateParentheses.cpp)|Medium|
 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./src/validParentheses/validParentheses.cpp)|Easy|yes|
 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Easy|yes|
-|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
+|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|yes|
 |[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./src/4Sum/4Sum.cpp)|Medium|
 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./src/3SumClosest/3SumClosest.cpp)|Medium|yes|
 |[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./src/3Sum/3Sum.cpp)|Medium|yes|
 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./src/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|yes|
 |[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./src/romanToInteger/romanToInteger.cpp)|Easy|not do|
 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./src/integerToRoman/integerToRoman.cpp)|Medium|not do|
-|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./src/containerWithMostWater/containerWithMostWater.cpp)|Medium|
+|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./src/containerWithMostWater/containerWithMostWater.cpp)|Medium|not do|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./src/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./src/palindromeNumber/palindromeNumber.cpp)|Easy|yes|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./src/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Easy|yes|
