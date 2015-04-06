@@ -156,7 +156,7 @@ LeetCode C++ Solutions
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./src/removeElement/removeElement.cpp)|Easy|yes|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|Easy|yes|
 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./src/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|Hard|
-|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./src/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
+|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./src/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|yes|
 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./src/mergeKSortedLists/mergeKSortedLists.cpp)|Hard|
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./src/generateParentheses/generateParentheses.cpp)|Medium|yes|
 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./src/validParentheses/validParentheses.cpp)|Easy|yes|
