@@ -105,7 +105,7 @@ void print_list(ListNode *head)
         std::cout << head->val << " ";
         head = head->next;
     }
-    std::cout << endl;
+    std::cout << std::endl;
 }
 
 int main()
