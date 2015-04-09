@@ -7,6 +7,7 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./src/rotateArray/rotate_array.cpp) | Easy | yes|
 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./src/FactorialTrailingZeroes/factorial_trailing_zeroes.cpp) | Easy | yes|
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./src/ExcelSheetColumnNumber/excel_sheet_column_number.cpp) | Easy | yes|
 [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&hearts; | c++ | Easy | |
@@ -134,7 +135,7 @@ LeetCode C++ Solutions
 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)| [C++](./src/anagrams/anagrams.cpp)|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [C++](./src/rotateImage/rotateImage.cpp)|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [C++](./src/permutations/permutations.II.cpp)|Hard|
-|[Permutations](https://oj.leetcode.com/problems/permutations/)| [C++](./src/permutations/permutations.cpp)|Medium|
+|[Permutations](https://oj.leetcode.com/problems/permutations/)| [C++](./src/permutations/permutations.cpp)|Medium|yes|
 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)| [C++](./src/jumpGame/jumpGame.II.cpp)|Hard|
 |[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| [C++](./src/wildcardMatching/wildcardMatching.cpp)|Hard|
 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [C++](./src/multiplyStrings/multiplyStrings.cpp)|Medium|
