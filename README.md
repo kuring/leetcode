@@ -7,6 +7,8 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Reverse Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./src/numberOf1Bits/number_of_1bits.cpp) | Easy | yes|
+[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./src/reverseBits/reverse_bits.cpp) | Easy | yes|
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./src/rotateArray/rotate_array.cpp) | Easy | yes|
 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./src/FactorialTrailingZeroes/factorial_trailing_zeroes.cpp) | Easy | yes|
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./src/ExcelSheetColumnNumber/excel_sheet_column_number.cpp) | Easy | yes|
