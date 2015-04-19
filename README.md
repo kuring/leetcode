@@ -152,7 +152,7 @@ LeetCode C++ Solutions
 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./src/searchForRange/searchForRange.cpp)|Medium|yes|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|Hard|
 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [C++](./src/longestValidParentheses/longestValidParentheses.cpp)|Hard|
-|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [C++](./src/nextPermutation/nextPermutation.cpp)|Medium|not do|
+|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [C++](./src/nextPermutation/nextPermutation.cpp)|Medium|yes|
 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|Hard|
 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [C++](./src/divideTwoInt/divideTwoInt.cpp)|Medium|
 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./src/strStr/strStr.cpp)|Easy|use normal,not use KMP..|
