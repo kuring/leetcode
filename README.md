@@ -140,7 +140,7 @@ LeetCode C++ Solutions
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [C++](./src/permutations/permutations.cpp)|Medium|yes|
 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)| [C++](./src/jumpGame/jumpGame.II.cpp)|Hard|
 |[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| [C++](./src/wildcardMatching/wildcardMatching.cpp)|Hard|
-|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [C++](./src/multiplyStrings/multiplyStrings.cpp)|Medium|
+|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [C++](./src/multiplyStrings/multiplyStrings.cpp)|Medium|yes|
 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [C++](./src/trappingRainWater/trappingRainWater.cpp)|Hard|
 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [C++](./src/firstMissingPositive/firstMissingPositive.cpp)|Hard|
 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./src/combinationSum/combinationSum.II.cpp)|Medium|yes|
