@@ -124,12 +124,12 @@ LeetCode C++ Solutions
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|Medium|yes|
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|Medium|yes|
 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|Medium|
-|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|Medium|
+|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|Medium|yes|
 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./src/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|yes|
 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [C++](./src/insertInterval/insertInterval.cpp)|Hard|
 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [C++](./src/mergeIntervals/mergeIntervals.cpp)|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [C++](./src/jumpGame/jumpGame.cpp)|Medium|
-|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [C++](./src/spiralMatrix/spiralMatrix.cpp)|Medium|
+|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [C++](./src/spiralMatrix/spiralMatrix.cpp)|Medium|yes|
 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [C++](./src/maximumSubArray/maximumSubArray.cpp)|Medium|yes|
 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [C++](./src/nQueens/nQueuens.II.cpp)|Hard|yes|
 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [C++](./src/nQueens/nQueuens.cpp)|Hard|yes|
