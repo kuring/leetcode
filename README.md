@@ -123,7 +123,7 @@ LeetCode C++ Solutions
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|Medium|yes|
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|Medium|yes|
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|Medium|yes|
-|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|Medium|
+|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./src/permutationSequence/permutationSequence.cpp)|Medium|yes|
 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./src/spiralMatrix/spiralMatrix.II.cpp)|Medium|yes|
 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./src/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|yes|
 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [C++](./src/insertInterval/insertInterval.cpp)|Hard|
