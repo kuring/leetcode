@@ -7,6 +7,9 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Isomorphic Strings](https://leetcode.com/problemset/algorithms/) | [C++](./src/isomorphicStrings/isomrphic_strings.cpp) | Easy | yes|
+[Remove Linked List Elements](https://leetcode.com/submissions/detail/26726335/) | [C++](./src/removeLinkedListElements/remove_linked_list_elements.cpp) | Easy | yes|
+[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./src/happyNumber/happy_number.cpp) | Easy | yes|
 [Reverse Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./src/numberOf1Bits/number_of_1bits.cpp) | Easy | yes|
 [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./src/reverseBits/reverse_bits.cpp) | Easy | yes|
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./src/rotateArray/rotate_array.cpp) | Easy | yes|
