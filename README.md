@@ -10,7 +10,8 @@ LeetCode C++ Solutions
 [Isomorphic Strings](https://leetcode.com/problemset/algorithms/) | [C++](./src/isomorphicStrings/isomrphic_strings.cpp) | Easy | yes|
 [Remove Linked List Elements](https://leetcode.com/submissions/detail/26726335/) | [C++](./src/removeLinkedListElements/remove_linked_list_elements.cpp) | Easy | yes|
 [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./src/happyNumber/happy_number.cpp) | Easy | yes|
-[Reverse Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./src/numberOf1Bits/number_of_1bits.cpp) | Easy | yes|
+[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./src/houseRobber/house_robber.cpp) | Easy | yes|
+[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./src/numberOf1Bits/number_of_1bits.cpp) | Easy | yes|
 [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./src/reverseBits/reverse_bits.cpp) | Easy | yes|
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./src/rotateArray/rotate_array.cpp) | Easy | yes|
 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./src/FactorialTrailingZeroes/factorial_trailing_zeroes.cpp) | Easy | yes|
@@ -116,13 +117,13 @@ LeetCode C++ Solutions
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [C++](./src/editDistance/editDistance.cpp)|Hard|
 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [C++](./src/simplifyPath/simplifyPath.cpp)|Medium|yes|
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [C++](./src/climbStairs/climbStairs.cpp)|Easy|yes|
-|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./src/sqrt/sqrt.cpp)|Medium|
+|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./src/sqrt/sqrt.cpp)|Medium|yes|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [C++](./src/textJustification/textJustification.cpp)|Hard|
 |[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./src/plusOne/plusOne.cpp)|Easy|yes|
 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)| [C++](./src/validNumber/validNumber.cpp)|Easy|
 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./src/addBinary/addBinary.cpp)|Easy|yes|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./src/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
-|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./src/minimumPathSum/minimumPathSum.cpp)|Medium|
+|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./src/minimumPathSum/minimumPathSum.cpp)|Medium|yes|
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./src/uniquePaths/uniquePaths.II.cpp)|Medium|yes|
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./src/uniquePaths/uniquePaths.cpp)|Medium|yes|
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./src/rotateList/rotateList.cpp)|Medium|yes|
