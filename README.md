@@ -38,8 +38,8 @@ LeetCode C++ Solutions
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./src/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|yes|
 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./src/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
 |[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./src/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
-|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/sortList/sortList.cpp)|Medium|
-|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./src/insertionSortList/insertionSortList.cpp)|Medium|
+|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/sortList/sortList.cpp)|Medium|yes|
+|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./src/insertionSortList/insertionSortList.cpp)|Medium|yes|
 |[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|Hard|yes|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [C++](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|Hard|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|Medium|yes|
