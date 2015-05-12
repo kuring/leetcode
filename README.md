@@ -7,6 +7,7 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./src/reverseLinkedList/reverse_linked_list.cpp) | Easy | yes|
 [Isomorphic Strings](https://leetcode.com/problemset/algorithms/) | [C++](./src/isomorphicStrings/isomrphic_strings.cpp) | Easy | yes|
 [Remove Linked List Elements](https://leetcode.com/submissions/detail/26726335/) | [C++](./src/removeLinkedListElements/remove_linked_list_elements.cpp) | Easy | yes|
 [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./src/happyNumber/happy_number.cpp) | Easy | yes|
@@ -106,10 +107,10 @@ LeetCode C++ Solutions
 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|Medium|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|Easy|yes|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|Medium|
-|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|Medium|
+|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|Medium|yes|
 |[Word Search](https://oj.leetcode.com/problems/word-search/)| [C++](./src/wordSearch/wordSearch.cpp)|Medium|yes|
-|[Subsets](https://oj.leetcode.com/problems/subsets/)| [C++](./src/subsets/subsets.cpp)|Medium|
-|[Combinations](https://oj.leetcode.com/problems/combinations/)| [C++](./src/combinations/combinations.cpp)|Medium|
+|[Subsets](https://oj.leetcode.com/problems/subsets/)| [C++](./src/subsets/subsets.cpp)|Medium|yes|
+|[Combinations](https://oj.leetcode.com/problems/combinations/)| [C++](./src/combinations/combinations.cpp)|Medium|yes|
 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| [C++](./src/minimumWindowSubstring/minimumWindowSubstring.cpp)|Hard|
 |[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [C++](./src/sortColors/sortColors.cpp)|Medium|yes|
 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [C++](./src/search2DMatrix/search2DMatrix.cpp)|Medium|yes|
