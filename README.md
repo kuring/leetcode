@@ -104,7 +104,7 @@ LeetCode C++ Solutions
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| [C++](./src/partitionList/partitionList.cpp)|Medium|
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [C++](./src/maximalRectangle/maximalRectangle.cpp)|Hard|
 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| [C++](./src/largestRectangleInHistogram/largestRectangleInHistogram.cpp)|Hard|
-|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|Medium|
+|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|Medium|yes|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|Easy|yes|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|Medium|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./src/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|Medium|yes|
