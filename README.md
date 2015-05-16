@@ -101,7 +101,7 @@ LeetCode C++ Solutions
 |[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [C++](./src/grayCode/grayCode.cpp)|Medium|
 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [C++](./src/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|Easy|yes|
 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [C++](./src/scrambleString/scrambleString.cpp)|Hard|
-|[Partition List](https://oj.leetcode.com/problems/partition-list/)| [C++](./src/partitionList/partitionList.cpp)|Medium|
+|[Partition List](https://oj.leetcode.com/problems/partition-list/)| [C++](./src/partitionList/partitionList.cpp)|Medium|yes|
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| [C++](./src/maximalRectangle/maximalRectangle.cpp)|Hard|
 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| [C++](./src/largestRectangleInHistogram/largestRectangleInHistogram.cpp)|Hard|
 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./src/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.cpp)|Medium|yes|
