@@ -97,8 +97,8 @@ LeetCode C++ Solutions
 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [C++](./src/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [C++](./src/reverseLinkedList/reverseLinkedList.II.cpp)|Medium|
 |[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [C++](./src/subsets/subsets.II.cpp)|Medium|
-|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| [C++](./src/decodeWays/decodeWays.cpp)|Medium|
-|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [C++](./src/grayCode/grayCode.cpp)|Medium|
+|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| [C++](./src/decodeWays/decodeWays.cpp)|Medium|yes|
+|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [C++](./src/grayCode/grayCode.cpp)|Medium|not do|
 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [C++](./src/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|Easy|yes|
 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [C++](./src/scrambleString/scrambleString.cpp)|Hard|
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| [C++](./src/partitionList/partitionList.cpp)|Medium|yes|
