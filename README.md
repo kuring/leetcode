@@ -7,6 +7,8 @@ LeetCode C++ Solutions
 
 | Title | Solution | Difficulty | Finish |
 | ----- | -------- | -------- | ------ |
+[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./src/containsDuplicate/contains_duplicate_ii.cpp) | Easy | yes|
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./src/containsDuplicate/contains_duplicate.cpp) | Easy | yes|
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./src/reverseLinkedList/reverse_linked_list.cpp) | Easy | yes|
 [Isomorphic Strings](https://leetcode.com/problemset/algorithms/) | [C++](./src/isomorphicStrings/isomrphic_strings.cpp) | Easy | yes|
 [Remove Linked List Elements](https://leetcode.com/submissions/detail/26726335/) | [C++](./src/removeLinkedListElements/remove_linked_list_elements.cpp) | Easy | yes|
