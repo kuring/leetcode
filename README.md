@@ -14,6 +14,7 @@ LeetCode C++ Solutions
 [Remove Linked List Elements](https://leetcode.com/submissions/detail/26726335/) | [C++](./src/removeLinkedListElements/remove_linked_list_elements.cpp) | Easy | yes|
 [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./src/happyNumber/happy_number.cpp) | Easy | yes|
 [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./src/houseRobber/house_robber.cpp) | Easy | yes|
+[Tenth Line](https://leetcode.com/problems/tenth-line/) | [Bash](./src/tenthLine/tenth_line.sh) | Easy | yes|
 [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./src/numberOf1Bits/number_of_1bits.cpp) | Easy | yes|
 [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./src/reverseBits/reverse_bits.cpp) | Easy | yes|
 [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./src/rotateArray/rotate_array.cpp) | Easy | yes|
